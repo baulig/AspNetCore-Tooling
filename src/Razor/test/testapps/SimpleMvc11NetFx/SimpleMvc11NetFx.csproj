@@ -8,7 +8,6 @@
 
   <PropertyGroup>
     <TargetFramework>net461</TargetFramework>
-    <UsingToolMicrosoftNetCompilers>true</UsingToolMicrosoftNetCompilers>
   </PropertyGroup>
 
   <!-- Test Placeholder -->
