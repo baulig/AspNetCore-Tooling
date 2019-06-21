@@ -31,4 +31,11 @@
 
   <Import Project="After.Directory.Build.props" Condition="Exists('After.Directory.Build.props')" />
 
+  <PropertyGroup>
+    <RestoreSources Condition="'$(DotNetBuildOffline)' != 'true'">
+      $(RestoreSources);
+      https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json;
+    </RestoreSources>
+  </PropertyGroup>
+
 </Project>
