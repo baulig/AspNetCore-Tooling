@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Dependencies>
   <ProductDependencies>
-    <Dependency Name="Microsoft.Extensions.CommandLineUtils.Sources" Version="3.0.0-preview8.19365.3">
+    <Dependency Name="Microsoft.Extensions.CommandLineUtils.Sources" Version="3.0.0-dev" Pinned="true">
       <Uri>https://github.com/aspnet/Extensions</Uri>
       <Sha>a0de8d227676ffc7a5af44c4d338e34100776ad8</Sha>
     </Dependency>
-    <Dependency Name="Microsoft.Extensions.HashCodeCombiner.Sources" Version="3.0.0-preview8.19365.3">
+    <Dependency Name="Microsoft.Extensions.HashCodeCombiner.Sources" Version="3.0.0-dev" Pinned="true">
       <Uri>https://github.com/aspnet/Extensions</Uri>
       <Sha>a0de8d227676ffc7a5af44c4d338e34100776ad8</Sha>
     </Dependency>
-    <Dependency Name="Microsoft.Extensions.NonCapturingTimer.Sources" Version="3.0.0-preview8.19365.3">
+    <Dependency Name="Microsoft.Extensions.NonCapturingTimer.Sources" Version="3.0.0-dev" Pinned="true">
       <Uri>https://github.com/aspnet/Extensions</Uri>
       <Sha>a0de8d227676ffc7a5af44c4d338e34100776ad8</Sha>
     </Dependency>
-    <Dependency Name="Microsoft.Extensions.Logging" Version="3.0.0-preview8.19365.3">
+    <Dependency Name="Microsoft.Extensions.Logging" Version="3.0.0-dev" Pinned="true">
       <Uri>https://github.com/aspnet/Extensions</Uri>
       <Sha>a0de8d227676ffc7a5af44c4d338e34100776ad8</Sha>
     </Dependency>
@@ -52,11 +52,11 @@
       <Uri>https://github.com/dotnet/corefx</Uri>
       <Sha>c14b80faff694bae4e085bad221e2e83410e5f33</Sha>
     </Dependency>
-    <Dependency Name="Microsoft.AspNetCore.BenchmarkRunner.Sources" Version="3.0.0-preview8.19365.3">
+    <Dependency Name="Microsoft.AspNetCore.BenchmarkRunner.Sources" Version="3.0.0-dev" Pinned="true">
       <Uri>https://github.com/aspnet/Extensions</Uri>
       <Sha>a0de8d227676ffc7a5af44c4d338e34100776ad8</Sha>
     </Dependency>
-    <Dependency Name="Microsoft.AspNetCore.Testing" Version="3.0.0-preview8.19365.3">
+    <Dependency Name="Microsoft.AspNetCore.Testing" Version="3.0.0-dev" Pinned="true">
       <Uri>https://github.com/aspnet/Extensions</Uri>
       <Sha>a0de8d227676ffc7a5af44c4d338e34100776ad8</Sha>
     </Dependency>
