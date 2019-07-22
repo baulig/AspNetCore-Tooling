@@ -20,7 +20,7 @@
   </PropertyGroup>
 
   <PropertyGroup>
-    <LocalBuildRoot>/Workspace/NewBlazor</LocalBuildRoot>
+    <LocalBuildRoot>$([MSBuild]::NormalizeDirectory('$(MSBuildThisFileDirectory)', '..', '..'))</LocalBuildRoot>
   </PropertyGroup>
   
   <!--
